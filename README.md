@@ -20,6 +20,14 @@ https://colab.research.google.com/drive/1VffAsocswnI5DNU6M1wyPGqm_nLWq-vK
 - Universal Sentence Encoder along with Keras Model
 https://colab.research.google.com/drive/1kB7Zr0Rzxc4nY4TAr2C2rnQcZUrQzMEI
 
+Edit access to both the code is given to halelabnitk@gmail.com
+
+## Run Code Locally
+
+- To run code locally , open the links given in above section
+- Download the py file from the file window
+- Download the dataset from the link given in Dataset section
+
 ## Results
 
 Please open .ipynb files to view the result
