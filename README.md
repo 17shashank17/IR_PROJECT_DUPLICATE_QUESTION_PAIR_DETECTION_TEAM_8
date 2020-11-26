@@ -34,6 +34,8 @@ Please open .ipynb files to view the result
 - QuoraDuplicationDetection.ipynb file contain code and result of BoW and TF-IDF model.
 - QuoraDuplicationUSE.ipynb file contain code and result of Universal Sentence Encoder with Keras model implementation
 
+For more details please read our attached report
+
 ## Team Members
 
 - Aditya Karia (171IT203)
